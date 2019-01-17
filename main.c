@@ -44,6 +44,14 @@
             }
             if (code == 2)
             {
+                printf("sahnchucheliangxinxi\n");
+                index>0;
+                index--;
+                printf("shanchuchenggong,dianjihuichejixu\n");
+                char xx;
+                scanf("%c", &xx);
+                scanf("%c", &xx);
+
             }
             if (code == 3)
             {
